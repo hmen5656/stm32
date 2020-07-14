@@ -1,1 +1,1 @@
-reading adc values with dma 
+analog to digital converter with dma 
